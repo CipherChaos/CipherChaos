@@ -5,13 +5,6 @@
 💻 Passionate about **Back-end Development**, **Cybersecurity**, and **Ethical Hacking**  
 📚 Always learning new things, especially in **Python**, **Django**, and **Linux**  
 
-## 🏆 My Goals  
-- Master **Django** & become a top **Back-end Developer**  
-- Gain deep expertise in **Cybersecurity & Bug Bounty**  
-- Improve my **English** & **French** for global opportunities  
-- Expand my knowledge in **Linux & System Security**  
-- Contribute to **open-source projects** and showcase cool stuff  
-
 ## 🔥 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
@@ -19,6 +12,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+![](https://nirzak-streak-stats.vercel.app/?user=CipherChaos&theme=dark&hide_border=false)<br/>
 
 ## 🌍 Connect With Me  
 💼 GitHub: [github.com/YourUsername](https://github.com/CipherChaos)  
