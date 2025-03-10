@@ -10,11 +10,4 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=CipherChaos&theme=dark&hide_border=false)<br/>
 
-## 🌍 Connect With Me  
-📧 Email: ariyanbolandi3@gmail.com
-💼  Connect with me on LinkedIn: linkedin.com/in/ariyan-bolandi 
-💬 Let's talk about **coding, cybersecurity, and tech!**  
-
----
-
 💡 *"Work smart, stay disciplined, and never betray the momentum of your consistency!"* 
