@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arian!  
 
-## 🚀 About Me  
+##About Me  
 🎓 Computer Engineering Student @ Karaj University  
 💻 Passionate about **Back-end Development**, **Cybersecurity**, and **Ethical Hacking**  
 📚 Always learning new things, especially in **Python**, **Django**, and **Linux**  
