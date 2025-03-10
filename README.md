@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arian!  
+# 👋 Hey, I'm Ariyan!  
 
 ## About Me  
 🎓 Computer Engineering Student @ Karaj University  
