@@ -10,4 +10,4 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=CipherChaos&theme=dark&hide_border=false)<br/>
 
-💡 *"Work smart, stay disciplined, and never betray the momentum of your consistency!"* 
+💡 *"Work smart, stay disciplined, and never betray the momentum of your consistency!."* 
